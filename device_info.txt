@@ -1,0 +1,26 @@
+dAccessKey=Lg5tYqG18rh++HdIPeCU48XpVnXbS4BnYA99oCNf6cQ="
+Created device ConnorBot2000
+deviceId:                   ConnorBot2000
+generationId:               636197391871335805
+etag:                       MA==
+connectionState:            Disconnected
+status:                     enabled
+statusReason:               null
+connectionStateUpdatedTime: 0001-01-01T00:00:00
+statusUpdatedTime:          0001-01-01T00:00:00
+lastActivityTime:           0001-01-01T00:00:00
+cloudToDeviceMessageCount:  0
+authentication:
+  symmetricKey:
+    primaryKey:   uk9RCQHNkR2oGCZk3ejM+326XU8KkQpsDq56aQTBm6g=
+    secondaryKey: birIRbSccnSf3795FhXZHG9Cma2LI9qLi0cGUn7dKTA=
+  x509Thumprint:
+    primaryThumbprint:   null
+    secondaryThumbprint: null
+  x509Thumbprint:
+    primaryThumbprint:   null
+    secondaryThumbprint: null
+  SymmetricKey:
+    primaryKey:   uk9RCQHNkR2oGCZk3ejM+326XU8KkQpsDq56aQTBm6g=
+    secondaryKey: birIRbSccnSf3795FhXZHG9Cma2LI9qLi0cGUn7dKTA=
+connectionString:           HostName=huzzahbots.azure-devices.net;DeviceId=ConnorBot2000;SharedAccessKey=uk9RCQHNkR2oGCZk3ejM+326XU8KkQpsDq56aQTBm6g=
